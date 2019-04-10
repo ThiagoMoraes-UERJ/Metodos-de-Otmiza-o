@@ -1,6 +1,6 @@
 # Metodos-de-Otmização
 
-Inclui métodos de otmização em Scilab
+**Inclui métodos de otmização em Scilab**
 
 Método Aurea
 
